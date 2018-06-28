@@ -1,0 +1,26 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: 3306
+    database_name: crm110
+    database_user: root
+    database_password: '123123'
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_port: null
+    mailer_encryption: null
+    mailer_user: null
+    mailer_password: null
+    websocket_bind_address: 0.0.0.0
+    websocket_bind_port: 8080
+    websocket_frontend_host: '*'
+    websocket_frontend_port: 8080
+    websocket_backend_host: '*'
+    websocket_backend_port: 8080
+    session_handler: session.handler.native_file
+    locale: en
+    secret: 8f9cf1ba97f34464b1f53dd4a6e20674
+    installed: '2018-06-28T14:07:00+03:00'
+    assets_version: df41d920
+    assets_version_strategy: time_hash
